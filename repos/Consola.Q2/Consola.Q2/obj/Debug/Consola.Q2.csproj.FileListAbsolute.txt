@@ -1,0 +1,10 @@
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\bin\Debug\Consola.Q2.exe.config
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\bin\Debug\Consola.Q2.exe
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\bin\Debug\Consola.Q2.pdb
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\obj\Debug\Consola.Q2.csprojAssemblyReference.cache
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\obj\Debug\Consola.Q2.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\obj\Debug\Consola.Q2.exe
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\obj\Debug\Consola.Q2.pdb
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\bin\Debug\ClassLibrary1.dll
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Eugenia Peronace\source\repos\Consola.Q2\Consola.Q2\obj\Debug\Consola.Q2.csproj.CopyComplete
