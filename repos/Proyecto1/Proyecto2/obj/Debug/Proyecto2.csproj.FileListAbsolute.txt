@@ -1,0 +1,7 @@
+C:\Users\Eugenia Peronace\source\repos\Proyecto1\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Eugenia Peronace\source\repos\Proyecto1\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Eugenia Peronace\source\repos\Proyecto1\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Eugenia Peronace\source\repos\Proyecto1\Proyecto2\obj\Debug\Proyecto2.csprojAssemblyReference.cache
+C:\Users\Eugenia Peronace\source\repos\Proyecto1\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia Peronace\source\repos\Proyecto1\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Eugenia Peronace\source\repos\Proyecto1\Proyecto2\obj\Debug\Proyecto2.pdb
